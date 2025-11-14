@@ -1,0 +1,17 @@
+11/11/2025 04:04:03 | INFO | data_prep | Loaded data: (80019, 12)
+11/11/2025 04:04:03 | INFO | data_prep | No label column found. Creating weak labels from text/emoji rules.
+11/11/2025 04:04:05 | INFO | data_prep | Prepared data: (14779, 3) | text='text' label='__weak_label'
+11/11/2025 04:04:05 | INFO | eda | EDA report saved at /mnt/data/squidgame_sentiment/eda/eda_report.json
+11/11/2025 04:04:09 | INFO | modeling | Saved model to /mnt/data/squidgame_sentiment/models/model.pkl | vectorizer to /mnt/data/squidgame_sentiment/models/vectorizer.pkl | acc=0.8955
+11/11/2025 09:37:38 | INFO | app | Prediction made | label=1 prob=0.999891381197506
+11/11/2025 09:38:49 | INFO | app | Prediction made | label=1 prob=0.9978239646825301
+11/11/2025 09:39:10 | INFO | app | Prediction made | label=0 prob=0.07020102052398997
+11/11/2025 09:52:44 | INFO | data_prep | Loaded data: (80019, 12)
+11/11/2025 09:52:44 | INFO | data_prep | No label column found. Creating weak labels from text/emoji rules.
+11/11/2025 09:52:45 | INFO | data_prep | Prepared data: (14779, 3) | text='text' label='__weak_label'
+11/11/2025 09:52:49 | INFO | eda | EDA report saved at C:\Users\yunuz\Downloads\squidgame_sentiment\eda\eda_report.json
+11/11/2025 09:53:00 | INFO | modeling | Saved model to C:\Users\yunuz\Downloads\squidgame_sentiment\models\model.pkl | vectorizer to C:\Users\yunuz\Downloads\squidgame_sentiment\models\vectorizer.pkl | acc=0.8948
+11/11/2025 10:29:35 | INFO | app | Prediction made | label=0 prob=0.1550786430807105
+11/11/2025 10:34:58 | INFO | app | Prediction made | label=1 prob=0.9910761618740013
+14/11/2025 10:34:44 | INFO | app | Prediction made | label=0 prob=0.12079925319346403
+14/11/2025 10:35:22 | INFO | app | Prediction made | label=1 prob=0.8872512302112832
